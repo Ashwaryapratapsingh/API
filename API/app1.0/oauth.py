@@ -237,6 +237,7 @@ class LinkedinSignIn(OAuthSignIn):
 
 
         return ("okoko","lkjhgh","jhs")
+        #return (user.get('id'), user.get(emailAddress))
 
 
 
